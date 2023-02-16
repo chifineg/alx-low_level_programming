@@ -3,7 +3,7 @@
 /**
  * main - function to print a string to the stout starts here
  *
- * Return - when 0 (no error)
+ * Return: when 0 (no error)
  */
 int main(void)
 {
