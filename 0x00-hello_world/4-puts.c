@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * the man function to print a string to the stout starts here
+ * main function to print a string to the stout starts here
  */
 int main(void)
 {
