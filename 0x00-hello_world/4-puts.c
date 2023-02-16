@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(){
-char *cisfun = ""Programming is like building a multilingual puzzle";
-	puts(cisfun);
+	puts("\"Programming is like building a multilingual puzzle");
 return 0;
 }
