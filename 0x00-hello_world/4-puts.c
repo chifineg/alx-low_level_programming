@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-/*
- * main function to print a string to the stout starts here
+/**
+ * main - function to print a string to the stout starts here
+ *
+ * Return - when 0 (no error)
  */
 int main(void)
 {
