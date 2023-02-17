@@ -15,11 +15,17 @@ char alpha;
 char zaph;
 alpha = 'a';
 zaph = 'z';
-while (alpha <= zaph)
+while (alpha <= z)
 {
 putchar(alpha);
 alpha++;
-putchar(toupper(alpha));
+}
+alpha = 'A';
+zaph = 'Z';
+while (alpha <= Z)
+{
+putchar(alpha);
+alpha++;
 }
 putchar('\n');
 return (0);
