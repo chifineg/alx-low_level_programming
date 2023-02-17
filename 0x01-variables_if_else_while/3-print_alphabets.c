@@ -18,8 +18,8 @@ zaph = 'z';
 while (alpha <= zaph)
 {
 putchar(alpha);
-putchar(toupper(alpha));
 alpha++;
+putchar(toupper(alpha));
 }
 putchar('\n');
 return (0);
