@@ -11,8 +11,8 @@
 int main(void)
 {
 char alpha;
-alpha = 'a';
 char zaph;
+alpha = 'a'
 zaph = 'z';
 while (alpha <= zaph)
 {
