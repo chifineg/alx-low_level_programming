@@ -13,19 +13,21 @@ int main(void)
 {
 char alpha;
 char zaph;
+char ALPHA;
+char ZAPH;
 alpha = 'a';
 zaph = 'z';
-while (alpha <= z)
+ALPHA = 'A';
+ZAPH = 'Z'
+while (alpha <= zaph)
 {
 putchar(alpha);
 alpha++;
 }
-alpha = 'A';
-zaph = 'Z';
-while (alpha <= Z)
+while (ALPHA <= ZAPH)
 {
-putchar(alpha);
-alpha++;
+putchar(ALPHA);
+ALPHA++;
 }
 putchar('\n');
 return (0);
