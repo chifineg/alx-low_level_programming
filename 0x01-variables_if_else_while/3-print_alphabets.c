@@ -18,7 +18,7 @@ char ZAPH;
 alpha = 'a';
 zaph = 'z';
 ALPHA = 'A';
-ZAPH = 'Z'
+ZAPH = 'Z';
 while (alpha <= zaph)
 {
 putchar(alpha);
