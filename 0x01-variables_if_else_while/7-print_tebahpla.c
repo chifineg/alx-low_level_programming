@@ -17,7 +17,7 @@ zaph = 'a';
 while (alpha >= zaph)
 {
 putchar(alpha);
-alpha++;
+alpha--;
 }
 putchar('\n');
 return (0);
