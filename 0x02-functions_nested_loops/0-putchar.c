@@ -1,5 +1,5 @@
-#include <stdio.h>
-/* imported the librabries I need to run the program */
+#include "main.h"
+/* imported the main.h library I need to run the program */
 
 /**
 * main - program function starts here
@@ -8,6 +8,13 @@
 */
 int main(void)
 {
-	printf("_putchar\n");
-	return (0);
+	char c[] = "_putchar";
+	int i;
+
+	for (i = 0; i < 8; i++)
+{
+	_putchar(c[i]);
+}
+_putchar('\n');
+return (0);
 }
