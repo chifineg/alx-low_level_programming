@@ -10,14 +10,14 @@ int main(void)
 int i;
 
 printf("Infinite loop incoming :(\n");
-/**
-*comment - off the block of code causing infinite loop. i = 0;
-*@\\o/\n\": - used to escape char
-*while (i < 10)
-*{
-*putchar(i);
-*}
-*/
+
+/*comment - off the block of code causing infinite loop. i = 0;*/
+
+/*while (i < 10)*/
+/*{*/
+/*putchar(i);*/
+/*}*/
+
 printf("Infinite loop avoided! \\o/\n");
 
 return (0);
