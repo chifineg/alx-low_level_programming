@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 /* imported the library I need to run the program */
 
