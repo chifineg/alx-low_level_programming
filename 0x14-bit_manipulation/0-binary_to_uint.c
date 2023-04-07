@@ -8,18 +8,6 @@
  *Return: 0 if NULL and base 10 number if binary
  */
 
-double power(double num, int raisedTo)
-{
-	double ans = 1.0;
-	int lo;
-	
-	for (lo = 0; lo < raisedTo; lo++)
-	{
-		ans *= num;
-	}
-	return ans;
-}
-
 unsigned int binary_to_uint(const char *b)
 {
 	unsigned int unit = 0;
