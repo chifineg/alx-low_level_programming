@@ -4,7 +4,8 @@
 /*
  * File: holberton.h
  * Auth: Chidinma Okafor
- * Desc: Header file containing all function prototypes needed for 0x15-file_io tasks.
+ * Desc: Header file containing all function prototypes 
+ * needed for 0x15-file_io tasks.
  */
 
 #include <sys/types.h>
